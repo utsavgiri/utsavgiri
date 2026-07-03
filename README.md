@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Utsav Giri. I am currently pursuing a B.Tech in Computer Science from BBS College of Engineering and Technology, Prayagraj. I have completed an internship at Seoczar IT Services, where I gained practical experience in SEO, including on-page SEO, off-page SEO, keyword research, blog posting, and article writing. I have basic knowledge of HTML, CSS, Python, and Microsoft Excel. I am a hardworking, quick learner with a strong interest in technology and continuous learning. I am looking for opportunities where I can enhance my skills, gain industry experience, and contribute effectively to the growth of an organization.
+My name is Utsav Giri. I am currently pursuing a B.Tech in Computer Science. I have completed an internship at Seoczar IT Services, where I gained practical experience in SEO, including on-page SEO, off-page SEO, keyword research, blog posting, and article writing. I have basic knowledge of HTML, CSS, Python, and Microsoft Excel.I am quick learner with a strong interest in technology and continuous learning. I am looking for opportunities where I can enhance my skills, gain industry experience, and contribute effectively to the growth of an organization.
 
 
 ## 🌐 Socials:
