@@ -27,3 +27,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utsavgiri/utsavgiri/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/utsavgiri/utsavgiri/output/github-contribution-grid-snake.svg">
 </picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya71703&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+</div>
