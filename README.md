@@ -1,4 +1,4 @@
-<div align="cente">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F52900&customColorList=12,20,24&height=200&section=header&text=Utsav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=4th%20Year%20Computer%20Science%20Student%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20&descAlignY=60&descSize=18" width="100%"/>
 <h3 align="center">A passionate Software Engineer from India</h3>
