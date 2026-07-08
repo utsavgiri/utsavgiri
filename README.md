@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **utsavgiri2004@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/utsav_goswami_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsav_goswami_70" height="30" width="40" /></a>
