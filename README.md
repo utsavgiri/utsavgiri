@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Utsav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder%20of%20Cool%20Things&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B52105&customColorList=12,20,24&height=200&section=header&text=Utsav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder%20of%20Cool%20Things&descAlignY=60&descSize=18" width="100%"/>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavgiri&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgiri" /> </p>
