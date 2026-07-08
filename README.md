@@ -35,10 +35,7 @@
 </div>
 
 # 📊 Profile Summary:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utsavgiri&theme=algolia" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utsavgiri&theme=algolia" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utsavgiri&theme=algolia" />
