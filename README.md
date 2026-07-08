@@ -34,3 +34,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgiri&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=A78BFA&sideNums=A78BFA" alt="GitHub Streak"/>
 </div>
 
+# 📊 Profile Summary:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utsavgiri&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utsavgiri&theme=algolia" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utsavgiri&theme=algolia" />
+</p>
+
+</hr>
+
+<hr>
